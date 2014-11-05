@@ -1,6 +1,6 @@
 Svu Class Launcher
 ==================
 
-Launch your syrian virtual univercity online sessions with this portable application.
+Launch your Syrian Virtual University online sessions with this portable application.
 
 Download from releases.
